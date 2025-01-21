@@ -37,5 +37,10 @@ Taking my Jucie Shop online to attract more customers and incerase the sales.
 ## Technical Requirments
 - HTML & CSS 
 
+## Design Requirment 
+- The design must be simple and responsive.
+- Use an cartoon theme.
+- Use colors that describe the freshness and vibrancy  of the juice. 
+
 ## Timeline
 - Basic structure of website can be done within a day and whole website can be completed in 2-3 days.
