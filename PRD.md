@@ -23,7 +23,7 @@ Taking my Jucie Shop online to attract more customers and incerase the sales.
 - There should be the picture of each juice and button to buy juice.
 - There should be contact info for booking purpose, for special occasions like, wedding or birthaday.
 
-### Future Fetaures and requirments ( P2 ):
+### Future Features and requirments ( P2 ):
 - AI intergation for review and feedback. 
 - Google maps intergation to easily locate the shop offline.
 - Online payment.
